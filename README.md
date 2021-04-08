@@ -16,3 +16,20 @@ O servidor estará rodando e o arquivo que está aberto é o **index.php**.
 ### Terceira etapa.
 Com a página aberta, hora de colocar os dados.
 
+
+## :man_technologist: Alguns testes que eu fiz.
+
+### Quando coloquei um valor inteiro:
+![](assets/img/valorInteiro.png)
+
+### Quando coloquei um valor decimal, mas que não tem valor após a vírgula:
+![](assets/img/valorVirgula.png)
+
+### Quando coloquei um valor decimal:
+![](assets/img/valorDecimal.png)
+
+### Quando coloquei um valor negativo:
+![](assets/img/ValorNegativo.png)
+
+### Quando não coloquei valor:
+![](assets/img/vazioValor.png)
