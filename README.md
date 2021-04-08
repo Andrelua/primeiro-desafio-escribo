@@ -4,10 +4,10 @@ Implementando uma função que irá receber um número inteiro positivo e retorn
 ## :computer: Como rodar ?
 
 ### Primeira etapa.
-Entrar na pasta do repositório.
+Entrar na pasta do repositório e abrir o cmd nela.
 
 ### Segunda etapa.
-Depois que estiver na pasta, execute o seguinte linha de comando no cmd: 
+Depois que estiver no cmd, execute o seguinte linha de comando: 
 
 	php -S localhost:8000
       
