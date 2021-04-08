@@ -18,8 +18,7 @@ class Calculadora{
                 for ($i=0; $i < $valor; $i++) { 
                     if ($i % 3 == 0 && $i > 0){
                         $somatorio += $i;
-                    }
-                    if ( $i % 5 == 0 && $i > 0) {
+                    }else if ( $i % 5 == 0 && $i > 0) {
                         $somatorio += $i;
                     }
                 }
