@@ -4,9 +4,12 @@ class Calculadora{
     public $valor;
 
     /**
+     * Método estático que retorna a somatória dos valores menores que o parâmetro passado. O parâmetro tem que ser inteiro e positivo.
+     * Os números que seram somados tem que ser divisíveis por 3 ou 5.
      * @param int $valor
      * @return int
     */
+    
     public static function somarInferior(int $valor = 0)
     {   
         $somatorio = 0;
