@@ -17,7 +17,13 @@
         <?php
             require_once 'calc.php';
             if (isset($_POST['btn_calc'])) {
-                Calculadora::somarInferior($_POST['valor']);
+                $valor = $_POST['valor'];
+                if ($valor == null) { // Verificando se o valor é igual a null.
+                    echo "Error - O input está vazio."; 
+                } else {
+                    Calculadora::somarInferior($valor);
+                }
+                
             }
         ?>
     </div>
