@@ -11,7 +11,7 @@ Depois que estiver na pasta, execute o seguinte linha de comando no cmd:
 
 	php -S localhost:8000
       
-O servidor estará rodando e o arquivo que aberto será o **index.php**.
+O servidor estará rodando e o arquivo que está aberto é o **index.php**.
 
 ### Terceira etapa.
 Com a página aberta, hora de colocar os dados.
